@@ -1,0 +1,7 @@
+F:\Inscryption\TEST VERSION\тест версия кошка\obj\Debug\тест версия кошка.csproj.AssemblyReference.cache
+F:\Inscryption\TEST VERSION\тест версия кошка\obj\Debug\тест версия кошка.csproj.CoreCompileInputs.cache
+F:\Inscryption\TEST VERSION\тест версия кошка\bin\Debug\тест версия кошка.exe.config
+F:\Inscryption\TEST VERSION\тест версия кошка\bin\Debug\тест версия кошка.exe
+F:\Inscryption\TEST VERSION\тест версия кошка\bin\Debug\тест версия кошка.pdb
+F:\Inscryption\TEST VERSION\тест версия кошка\obj\Debug\тест версия кошка.exe
+F:\Inscryption\TEST VERSION\тест версия кошка\obj\Debug\тест версия кошка.pdb
